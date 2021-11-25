@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/global-awards-website/static/css/main.b1a272d6.chunk.css",
+    "main.js": "/global-awards-website/static/js/main.e2e4f774.chunk.js",
+    "main.js.map": "/global-awards-website/static/js/main.e2e4f774.chunk.js.map",
+    "runtime-main.js": "/global-awards-website/static/js/runtime-main.c7ac2bcb.js",
+    "runtime-main.js.map": "/global-awards-website/static/js/runtime-main.c7ac2bcb.js.map",
+    "static/js/2.3ec2b323.chunk.js": "/global-awards-website/static/js/2.3ec2b323.chunk.js",
+    "static/js/2.3ec2b323.chunk.js.map": "/global-awards-website/static/js/2.3ec2b323.chunk.js.map",
+    "static/js/3.d40e32d0.chunk.js": "/global-awards-website/static/js/3.d40e32d0.chunk.js",
+    "static/js/3.d40e32d0.chunk.js.map": "/global-awards-website/static/js/3.d40e32d0.chunk.js.map",
+    "index.html": "/global-awards-website/index.html",
+    "static/css/main.b1a272d6.chunk.css.map": "/global-awards-website/static/css/main.b1a272d6.chunk.css.map",
+    "static/js/2.3ec2b323.chunk.js.LICENSE.txt": "/global-awards-website/static/js/2.3ec2b323.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/global-awards-website/static/media/Gordita Regular.74727069.woff",
+    "static/media/apple.svg": "/global-awards-website/static/media/apple.577c4f47.svg",
+    "static/media/arrow.svg": "/global-awards-website/static/media/arrow.3c1313b5.svg",
+    "static/media/bg-blend.svg": "/global-awards-website/static/media/bg-blend.81e86dca.svg",
+    "static/media/contact-bg.png": "/global-awards-website/static/media/contact-bg.42d93a31.png",
+    "static/media/cross-line.svg": "/global-awards-website/static/media/cross-line.971a13ef.svg",
+    "static/media/flaticon.svg": "/global-awards-website/static/media/flaticon.eb779fa1.svg",
+    "static/media/freepik.svg": "/global-awards-website/static/media/freepik.bc987e2e.svg",
+    "static/media/google.svg": "/global-awards-website/static/media/google.420de670.svg",
+    "static/media/logo.svg": "/global-awards-website/static/media/logo.3e417853.svg",
+    "static/media/spotlight.svg": "/global-awards-website/static/media/spotlight.8be3e5f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ac2bcb.js",
+    "static/js/2.3ec2b323.chunk.js",
+    "static/css/main.b1a272d6.chunk.css",
+    "static/js/main.e2e4f774.chunk.js"
+  ]
+}
